@@ -1,0 +1,6 @@
+ File to record the statistics for signal with 3 protons 
+ ======================================================= 
+ True : 46089
+ Cut  : 7777
+ Reco : 7801
+ Unf  : 45899.2
